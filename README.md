@@ -20,5 +20,5 @@ This is a simple Amazon clone built with HTML, CSS, and JavaScript. It mimics th
 
 ## Deploy
 
-This project is deployed using GitHub Pages. Visit  https://rayuga3900.github.io/Amazon_clone/ to see the live site.
+This project is deployed using infinityfreeapp.com. Visit  http://aclone.infinityfreeapp.com/ to see the live site.
  
